@@ -1,5 +1,4 @@
 <?php
-
 /**
  * @file
  * Handles seller downloadable product features.  Extends functionality of
